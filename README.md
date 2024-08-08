@@ -15,6 +15,9 @@ installieren zu können.
 - Mac Starten und sofort Option (Windows Taste) + R gedrückt halten
     Der Mac sollte im Recovery Modus starten
 - Festplattendienstprogramm Starten
+
+![MacOS Recovery Menü](/Bilder/mac-recovery-mode-die-macos-dienstprogramme.png)
+
 - Festplatte auswählen und auf den Partitionieren Button drücken
 - Es öffnet sich ein Fenster indem unten links noch ein Partitionieren
     Button ist. Nachdem dieser gedrückt wurde landet man in der
