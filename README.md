@@ -132,4 +132,20 @@ mit EFI-Boot auswählen
 Über das Menü was auftaucht kann beim Starten jetzt immer zwischen Linux
 und MacOS gewechselt werden.
 
+## Probleme und Info zur Doku
+
+### Outdated
+Diese Doku wurde zuletzt 2022 von mir bearbeitet und ist daher bestimmt nicht mehr allzu Aktuell. Zudem hat sich unter Pop_OS über die Jahre auch einiges geändert. Das Grunprinzip funktioniert aber dennoch auf allen Intel basierten Maschienen und für alle Distros.
+
+### Mein Mac geht nicht mehr an oder fährt nicht Runter
+Ich habe bei einer kurzrescherche Herausgefunden, dass Linux wohl Probleme mit dem Hoch- und Herunterfahren auf Apple Geräten hat. 
+Manchmal startet des System neu obwohl man auf Herunterfahren klickt und meistens Startet der Mac nicht mehr nach dem Herunterfahren.
+
+#### Temporäre Lösungen 
+
+- Wenn der Mac nicht Startet einfach den Power Button für 5-10 Sekunden gedrückt halten, loslassen und dann erneut Drücken. Danach sollte der Mac wieder Starten. 
+- Falls er nicht ausgehen möchte, einfach über MacOS Herunterfahren 
+
+Leider habe ich noch keinen Weg gefunden diese Probleme dauerhaft zu beheben. 
+
 
