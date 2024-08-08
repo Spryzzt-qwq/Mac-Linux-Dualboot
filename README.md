@@ -94,7 +94,7 @@ Das System muss jetzt nur noch neu gestartet werden. Beim Neustart die Command-T
 
 Über das Menü, das auftaucht, kann beim Starten jetzt immer zwischen Linux und macOS gewechselt werden.
 
-## Probleme und Info zur Doku
+## Anmerkungen zur Doku
 
 ### Outdated
 
@@ -111,7 +111,7 @@ Ich habe bei einer kurzen Recherche herausgefunden, dass Linux wohl Probleme mit
 
 Leider habe ich noch keinen Weg gefunden, diese Probleme dauerhaft zu beheben. 
 
-#### Bilder in der Doku
+### Bilder in der Doku
 
 Die ersten 3 Bilder sind leider Irgendwo von Google, sollte jemand der Anleitung folgen, wäre ich froh, wenn einer mal einheitliche Screenshots Comitten könnte.
 
