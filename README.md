@@ -1,5 +1,3 @@
-Hier ist die korrigierte Version der README:
-
 # Linux auf einem Mac installieren (Dual Boot)
 
 Um alte Macs wieder auf den Stand der Zeit zu bringen, folgt hier eine Anleitung, wie man bei nicht länger unterstützten Intel-Macs Linux installiert.
