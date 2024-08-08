@@ -36,6 +36,8 @@ werden.
 - Das Terminal im Dienstprogramme Reiter auswählen
 - Folgenden Befehl eingeben: ’ _csrutil disable_ ’
 
+![MacOS Recovery Terminal öffnen](/Bilder/terminal-in-recovery-mode.png)
+
 Danach sind wir im Recovery Modus fertig und der Mac kann
 Heruntergefahren werden.
 
@@ -45,6 +47,9 @@ Heruntergefahren werden.
 
 - Den Mac Starten und sofort die Command-Taste (Alt) gedrückt halten
 - Danach sollte dieses oder ein ähnlich aussehendes Menü auftauchen
+
+![MacOS Recovery Menü](/Bilder/sjod07fjjy5f.jpg)
+
 - Dort das USB-Gerät (EFI-Boot auswählen)
 
 
@@ -65,26 +70,40 @@ Demonstration.
     Benutzerdefiniert (Custom, Advanced, etc.)
 - Da wir einen Dual Boot wollen, müssen wir die Benutzerdefinierte
     Installation wählen
+
+![Pop_OS Festplatte Partitionieren "Benutzerdefiniert"](/Bilder/Linux%20Part%201.png)
+
 - Daraufhin, auf „Partitionen verwalten“ klicken, dann öffnet sich ein
     GParted Fenster
+
+![GParted](/Bilder/Linux%20Part%202.png)
+
 - Dort die vorhin erstellte Partition in der Liste auswählen und löschen
     (Rechtsklick)
-
-
 - Dann Rechtsklick auf den nicht zugeordneten Speicher und auf Neu
     klicken
     da entsteht eine Partition für den Bootloader, diese darf
     **minimal 500 MB** groß sein und muss auf **Fat32** formatiert werden
+
+![Boot Partition](/Bilder/Linux%20Part%203.png)
+
 - Dasselbe nochmal für das eigentliche Betriebssystem
     Die Größe kann hier frei gewählt werden, es sollten aber noch ca.
     **4-8 GB übrig bleiben** , dass ganze muss in **ext4** (oder dem von der
     Distro vorgeschlagenem Hauptdateisystem) formatiert werden
 
+![Root Partition](/Bilder/Linux%20Part%204.png)
 
 - Die letzte zu erstellende Partition ist der Auslagerungsspeicher
     (falls der Ram voll ist)
     Den **restlichen Speicher** nutzen und als **Swap** formatieren
+
+![Swap Partition](/Bilder/Linux%20Part%205.png)
+
 - Zum Abschluss sollte die Liste so aussehen:
+
+![GParted übersicht mit allen Partitionen](/Bilder/Linux%20Part%206.png)
+
 - Die Konfiguration muss mit dem Haken bestätigt werden, erst dann
     werden die Änderungen wirksam. Man kann also vorher noch nicht’s
     kaputt machen.
@@ -92,6 +111,13 @@ Demonstration.
 
 - Im letzten Schritt der Partitionierung müssen alle 3 Partitionen einzeln
     Ausgewählt werden und wie in den Bildern konfiguriert werden.
+
+![Boot einhängen](/Bilder/Linux%20Part%207.png)
+
+![Root einhängen](/Bilder/Linux%20Part%208.png)
+
+![Swap einhängen](/Bilder/Linux%20Part%209.png)
+
 - Danach „Löschen und Installieren“ anklicken und dem
     Installationsassistenten folgen bis das System installiert und bereit für
     den Neustart ist.
