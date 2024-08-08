@@ -110,3 +110,9 @@ Ich habe bei einer kurzen Recherche herausgefunden, dass Linux wohl Probleme mit
 - Falls er nicht ausgehen möchte, einfach über macOS herunterfahren.
 
 Leider habe ich noch keinen Weg gefunden, diese Probleme dauerhaft zu beheben. 
+
+#### Bilder in der Doku
+
+Die ersten 3 Bilder sind leider Irgendwo von Google, sollte jemand der Anleitung folgen, wäre ich froh, wenn einer mal einheitliche Screenshots Comitten könnte.
+
+Verbesserungsvorschläge sind auch gern gesehen c:
