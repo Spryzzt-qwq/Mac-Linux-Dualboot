@@ -8,7 +8,7 @@ Zuerst ist es nötig, in den Recovery-Modus zu gelangen. Dort partitionieren wir
 
 ### Schritt 1: Partitionierung
 
-- Mac starten und sofort Option (Windows-Taste) + R gedrückt halten. Der Mac sollte im Recovery-Modus starten.
+- Mac starten und sofort Command (Windows-Taste) + R gedrückt halten. Der Mac sollte im Recovery-Modus starten.
 - Festplattendienstprogramm starten.
 
 ![macOS Recovery Menü](/Bilder/mac-recovery-mode-die-macos-dienstprogramme.png)
@@ -34,7 +34,7 @@ Danach sind wir im Recovery-Modus fertig und der Mac kann heruntergefahren werde
 
 ### Schritt 1: Vom Installationsstick booten
 
-- Den Mac starten und sofort die Command-Taste (Alt) gedrückt halten.
+- Den Mac starten und sofort die Option-Taste (Alt) gedrückt halten.
 - Danach sollte dieses oder ein ähnlich aussehendes Menü auftauchen:
 
 ![macOS Recovery Menü](/Bilder/sjod07fjjy5f.jpg)
@@ -88,7 +88,7 @@ Diese ist bei vielen Distributionen unterschiedlich, das ist aber nicht schlimm,
 
 ## Es ist geschafft
 
-Das System muss jetzt nur noch neu gestartet werden. Beim Neustart die Command-Taste (Alt) gedrückt halten und die Festplatte mit EFI-Boot auswählen.
+Das System muss jetzt nur noch neu gestartet werden. Beim Neustart die Option-Taste (Alt) gedrückt halten und die Festplatte mit EFI-Boot auswählen.
 
 Über das Menü, das auftaucht, kann beim Starten jetzt immer zwischen Linux und macOS gewechselt werden.
 
